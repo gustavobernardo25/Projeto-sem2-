@@ -6,21 +6,61 @@ header{
     background-color: cornflowerblue;
 
 }
+a{
+text-decoration: none;
+color: black;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+
+}
+#about{
+color: rgb(150, 10, 10);
+
+}
+
+::placeholder{
+    color: dimgrey;
+    font-size: 1.2em;
+}
+
+#butao{
+    margin-left: 620px;
+    margin-top: 20px;
+}
+
+#google{
+    margin-top: 25px;
+    margin-left: 35em;
+}
+#inputtext{
+    margin-left: -15px;
+    
+    
+    
+}
 #header{
     text-decoration: none;
-    color: black;
     margin: 0px 10px;
-    border-image: 5px ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
 
 footer{
     background-color: cornflowerblue;
     text-align: justify;
+    margin-top: 150px;
+    padding: 25px;
 }
 #brasil{
     text-decoration: none;
-    color: black;
-    background-color: cornflowerblue;
+    color: white;
+    background-image: url("https://s2.glbimg.com/6gBGZltjugoBIFtVSuTdvbK7joE=/0x317:1920x1544/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/x/XSAA0pRWA9wBgLuJdv9A/flag-4176448-1920-1-.jpg");
+    padding-top: 10px;
+    margin-top: 50px;    
+    
+}
 
+#img-header{
+    width: 20px;
 }
 
