@@ -14,7 +14,8 @@ font-family: 'Roboto', sans-serif;
 
 }
 #about{
-color: rgb(150, 10, 10);
+color: rgb(0, 0, 0);
+margin-right: 20px;
 
 }
 
@@ -29,15 +30,14 @@ color: rgb(150, 10, 10);
 }
 
 #google{
-    margin-top: 25px;
+    margin-top: 190px;
     margin-left: 35em;
 }
 #inputtext{
     margin-left: -15px;
     
-    
-    
 }
+
 #header{
     text-decoration: none;
     margin: 0px 10px;
@@ -48,15 +48,13 @@ color: rgb(150, 10, 10);
 footer{
     background-color: cornflowerblue;
     text-align: justify;
-    margin-top: 150px;
+    margin-top: 100px;
     padding: 25px;
 }
 #brasil{
     text-decoration: none;
-    color: white;
-    background-image: url("https://s2.glbimg.com/6gBGZltjugoBIFtVSuTdvbK7joE=/0x317:1920x1544/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/x/XSAA0pRWA9wBgLuJdv9A/flag-4176448-1920-1-.jpg");
-    padding-top: 10px;
-    margin-top: 50px;    
+    color: rgb(0, 0, 0);
+     
     
 }
 
@@ -64,3 +62,13 @@ footer{
     width: 20px;
 }
 
+.card{
+    margin-left: 320px;
+}
+#mdcard{color: blue;
+}
+
+#texto{
+margin-left: 200px;
+font-size: 3.5em;
+}
